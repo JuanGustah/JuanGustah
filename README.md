@@ -31,10 +31,10 @@ Por favor considere dar um estrela nesse repositório se eu conseguir te ajudar 
   <a href="mailto:juangt360graus@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
- <a href="https://www.instagram.com/limao_dev/">
+ <a href="https://www.instagram.com/limao_dev/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discordapp.com/users/168046934513156097/">
+  <a href="https://discordapp.com/users/168046934513156097/" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
