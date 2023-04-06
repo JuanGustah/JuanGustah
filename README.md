@@ -5,8 +5,8 @@ Por favor considere dar um estrela nesse repositório se eu conseguir te ajudar 
 ## Olá Mundo, Eu sou Juan!
 
   <img align="right" width="150" src="https://github.com/JuanGustah/JuanGustah/blob/main/profile.png">
-  <p>Sou pré-universitário e entusiasta de front-end, residente em Garanhuns-Pe.</br> Atualmente não estou empregado então o Github é meu verdadeiro laborátorio de experiências.👨‍🔬🧪</br>
-  Sinta-se livre para investigar. 😉🔎</p>
+  <p>Sou universitário e entusiasta de front-end, residente em Garanhuns-Pe.</br> O Github é meu verdadeiro laborátorio de experiências.👨‍🔬🧪</br>
+  Portanto, Sinta-se livre para investigar. 😉🔎</p>
   <div>
   <a href="https://github.com/JuanGustah">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanGustah&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="github stats"/>
